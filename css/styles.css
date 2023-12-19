@@ -21,9 +21,9 @@ Custom values added per site specification:
     --ff-main: work-sans;
     --ff-secondary: work-sans-italic;
 
-    --icon-star: url(../assets/images/icon-star.svg);
-    --icon-plus: url(../assets/images/icon-plus.svg);
-    --icon-minus: url(../assets/images/icon-minus.svg);
+    --icon-star: url(./assets/images/icon-star.svg);
+    --icon-plus: url(./assets/images/icon-plus.svg);
+    --icon-minus: url(./assets/images/icon-minus.svg);
     
     --background-image-desktop: url(../assets/images/background-pattern-desktop.svg);
     --background-image-mobile:  url(../assets/images/background-pattern-mobile.svg);
