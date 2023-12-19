@@ -4,8 +4,8 @@ const allButtons = document.getElementsByClassName("question");
 
 
 function addButtonListeners() {
-    const iconPlus = "./icon-plus.svg";
-    const iconMinus = "./icon-minus.svg";
+    const iconPlus = "./assets/images/icon-plus.svg";
+    const iconMinus = "./assets/images/icon-minus.svg";
 
     /* setting click listeners programmatically */
     for (let button of allButtons) {
